@@ -1,0 +1,54 @@
+{
+    "name": "AnswerHub",
+    "description": "AnswerHub is a Network Knowledge Platform that enables teams to work together effectively and experience improved operational and financial results.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/answerhub.png",
+    "tags": [
+        "answers",
+        "api provider",
+        "content",
+        "have api"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/answerhub\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AnswerHub",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/answerhub.png",
+            "humanURL": "http:\/\/www.dzonesoftware.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/answerhub-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/answerhub.com\/developer\/api\/#sthash.YHhVENWY.dpuf"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/answerhub.com\/dev-center-test\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@answerhub.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/answerhub"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.dzonesoftware.com\/"
+        }
+    ]
+}
